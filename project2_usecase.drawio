@@ -1,9 +1,157 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.4">
   <diagram name="Page-1" id="GXoHQ4J6Dpgoc9MGfVgv">
-    <mxGraphModel>
+    <mxGraphModel dx="706" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6Wrh6senQmz_bC2Jactv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="6Wrh6senQmz_bC2Jactv-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-1" target="6Wrh6senQmz_bC2Jactv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-1" target="6Wrh6senQmz_bC2Jactv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-1" target="6Wrh6senQmz_bC2Jactv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-1" target="6Wrh6senQmz_bC2Jactv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6Wrh6senQmz_bC2Jactv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-1" value="Vizitator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-3" value="Vizualizează produse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-4" value="Vizualizează detalii produs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-5" value="Adăugare produs în coș" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-6" value="Filtrează produse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-7" value="Vizualizare coș" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-8" value="Finalizare comandă" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="6Wrh6senQmz_bC2Jactv-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-23" target="6Wrh6senQmz_bC2Jactv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-23" target="6Wrh6senQmz_bC2Jactv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-23" target="6Wrh6senQmz_bC2Jactv-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-23" target="6Wrh6senQmz_bC2Jactv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6Wrh6senQmz_bC2Jactv-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-23" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="780" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-24" value="Vizualizează comenzi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-25" value="Administrează produse featured" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-26" value="Vizualizează produse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-27" value="Autentificare" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-47" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endSize=12;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-28" target="6Wrh6senQmz_bC2Jactv-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-50" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="6Wrh6senQmz_bC2Jactv-47">
+          <mxGeometry x="-0.0735" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-48" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endSize=12;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-28" target="6Wrh6senQmz_bC2Jactv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-51" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="6Wrh6senQmz_bC2Jactv-48">
+          <mxGeometry x="-0.429" y="2" relative="1" as="geometry">
+            <mxPoint x="5" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-28" value="&lt;div&gt;Gestionează produse&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-53" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endSize=12;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-29" target="6Wrh6senQmz_bC2Jactv-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-54" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="6Wrh6senQmz_bC2Jactv-53">
+          <mxGeometry x="-0.2959" y="-3" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-29" value="Gestionează comenzi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-31" value="Creare cont nou" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-32" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-37" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-27" target="6Wrh6senQmz_bC2Jactv-31">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="640" as="sourcePoint" />
+            <mxPoint x="340" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-38" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.696;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-27" target="6Wrh6senQmz_bC2Jactv-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="652" as="sourcePoint" />
+            <mxPoint x="438" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-39" value="Creare produs nou" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-40" value="Arhivare produs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-41" value="Ștergere produs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-46" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endSize=12;" edge="1" parent="1" source="6Wrh6senQmz_bC2Jactv-28" target="6Wrh6senQmz_bC2Jactv-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-49" value="&lt;div&gt;include&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="6Wrh6senQmz_bC2Jactv-46">
+          <mxGeometry x="-0.0329" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wrh6senQmz_bC2Jactv-52" value="Șterge comandă" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
